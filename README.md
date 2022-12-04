@@ -10,7 +10,11 @@
 
 
 ### Workshop Details
-We are adding rural roads from PMGSY. More details and tasking manager [here](https://tasks.hotosm.org/projects/13916/)
+We are adding rural roads from PMGSY. More details and tasking manager [here](https://tasks.hotosm.org/projects/13916/). 
+[Strava heatmap](https://chrome.google.com/webstore/detail/josm-strava-heatmap/hicmfobjcbinceoeegookkgllpdgkcdc/related?hl=en-GB) used for the workshop 
+
+## Youtube Recording of the meetup
+https://youtu.be/3hMl9FDKA1o
 
 ---
 
